@@ -1,3 +1,7 @@
+
+
+[![sumitdethe27's GitHub | Topics Over Time](https://stats.quine.sh/sumitdethe27/topics-over-time?theme=light)](https://quine.sh)
+
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate developer from India</h3>
 
