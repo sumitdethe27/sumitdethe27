@@ -1,11 +1,13 @@
 
 
-[![sumitdethe27's GitHub | Topics Over Time](https://stats.quine.sh/sumitdethe27/topics-over-time?theme=light)](https://quine.sh)
+
 
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitdethe27&label=Profile%20views&color=0e75b6&style=flat" alt="sumitdethe27" /> </p>
+
+[![sumitdethe27's GitHub | Topics Over Time](https://stats.quine.sh/sumitdethe27/topics-over-time?theme=light)](https://quine.sh)
 
 - 🔭 I’m currently working on  [**Cred Clone**](https://github.com/sumitdethe27/cred-clone)
 
