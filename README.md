@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React, Spring**
 
-- 🤝 I’m looking for help with **Database**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/sumitdethe27](https://github.com/sumitdethe27)
 
