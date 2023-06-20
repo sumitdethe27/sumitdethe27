@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on  [**Cred Clone**](https://github.com/sumitdethe27/cred-clone)
 
-- 🌱 I’m currently learning **React, Spring**
+
 
 
 
