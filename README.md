@@ -20,7 +20,6 @@
 
 - 📫 How to reach me **milinddethe6@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://milinddethe6.hackerresume.io/a733aee5-75c0-49eb-beae-8075f78c3a4e)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
