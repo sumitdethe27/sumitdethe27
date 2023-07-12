@@ -34,6 +34,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitdethe27&" alt="sumitdethe27" /></p>
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitdethe27)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitdethe27&layout=compact)
 
 [![sumitdethe27's GitHub | Topics Over Time](https://stats.quine.sh/sumitdethe27/topics-over-time?theme=light)](https://quine.sh)
