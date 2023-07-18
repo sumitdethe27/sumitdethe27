@@ -36,4 +36,10 @@
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitdethe27&layout=compact)
 
-[![sumitdethe27's GitHub | Topics Over Time](https://stats.quine.sh/sumitdethe27/topics-over-time?theme=light)](https://quine.sh)
+
+
+### 🔝 Top Contributed Repo
+
+![align="center"](https://github-contributor-stats.vercel.app/api?username=sumitdethe27&limit=5&theme=juicyfresh&combine&all_yearly_contributions=true)
+
+
