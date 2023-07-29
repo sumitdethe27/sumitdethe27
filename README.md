@@ -12,7 +12,6 @@
 
 
 
-
 - 👨‍💻 All of my projects are available at [https://github.com/sumitdethe27](https://github.com/sumitdethe27)
 
 - 💬 Ask me about **Java, javascript, python**
